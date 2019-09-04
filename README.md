@@ -1,0 +1,2 @@
+# computadoranueva
+Scripts de instalación
