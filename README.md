@@ -1,2 +1,2 @@
 # computadoranueva
-Scripts de instalación
+Scripts de instalación de herramientas para un entorno nuevo.
