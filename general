@@ -1,1 +1,5 @@
 #!/bin/bash
+# Instalar grive para sincronizar con google drive
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt-get update
+sudo apt-get install grive
